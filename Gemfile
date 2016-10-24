@@ -26,6 +26,7 @@ gem 'sdoc', group: :doc
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
+gem 'guard'
 
 group :development, :test do
   gem 'sqlite3'
